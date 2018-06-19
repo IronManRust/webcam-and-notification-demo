@@ -1,0 +1,25 @@
+html {
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+video,
+canvas {
+    display: none;
+}
+
+label {
+    display: block;
+    font-size: 25px;
+}
+
+.wrapper {
+    border-color: gray;
+    border-style: dashed;
+    border-width: thin;
+    display: inline-block;
+    padding: 10px 10px 5px 10px;
+}
