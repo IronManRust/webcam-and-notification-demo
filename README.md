@@ -1,7 +1,5 @@
 # Webcam & Notification Demo
 
----
-
 ## Summary
 
 This is a minimal demo exploring how to utilize the HTML5 webcam and notification interfaces.
